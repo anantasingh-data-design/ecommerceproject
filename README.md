@@ -9,22 +9,23 @@ npm run dev to run the apllication<hr>
 if you want to edit in data  go to Products.js from Backend folder then data folder and edit the details there and import by this command <hr>npm run data:import
   
 </h4><hr>
-<h4 style="color:blue">
-Dependencies used in Backend listed below:
- "dotenv"
- "express" 
- "mongoose"
+<h4>
+Dependencies used in Backend listed below:<br>
+ dotenv
+ express 
+ mongoose
  
 </h4>
 <hr>
-<h4 style="color:blue">
-Developement Dependencies used in Backend listed below:
+<h4>
+Developement Dependencies used in Backend listed below:<br>
  nodemon 
  concurrently
  
 </h4>
 <hr>
-<h4 style="color:blue">
+<h4 >
+ Dependencies used in Frontend <br>
   axios
   react
   react-dom
