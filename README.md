@@ -1,2 +1,11 @@
-# ecommerceproject
-<h1>file setup</h1>
+# Build ecommerce Shopping cart site 
+<h1>Application build using MongoDB,Express,React,Node</h1>
+<p> All Functionality this ecommerce have.It should have ability  to load from database.
+And able to view the individual items,We can view the exact amount of stock this item has,we can add item to cart remove cart ,it takes us to the cart we can see cart,The cart storage in browsers localstorage </p>
+<h3>project setup</h3>
+<p> simply Clone this repo
+npm run dev to run the apllication
+ 
+if you want to data import go to Products.js from Backend folder hen data folder and edit the details there and <span style="color:blue;text-decoration:none" >npm run data:import<span>
+  
+</p>
