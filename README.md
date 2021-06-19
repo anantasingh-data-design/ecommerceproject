@@ -8,4 +8,32 @@ npm run dev to run the apllication<hr>
  
 if you want to edit in data  go to Products.js from Backend folder then data folder and edit the details there and import by this command <hr>npm run data:import
   
+</h4><hr>
+<h4 style="color:blue">
+Dependencies used in Backend listed below:
+ "dotenv"
+ "express" 
+ "mongoose"
+ 
+</h4>
+<hr>
+<h4 style="color:blue">
+Developement Dependencies used in Backend listed below:
+ nodemon 
+ concurrently
+ 
+</h4>
+<hr>
+<h4 style="color:blue">
+  axios
+  react
+  react-dom
+  react-redux
+  react-router-dom
+  react-scripts
+  redux
+  redux-devtools-extension
+  redux-thunk
+  web-vitals
+ 
 </h4>
