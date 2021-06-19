@@ -6,6 +6,6 @@ And able to view the individual items,We can view the exact amount of stock this
 <h4> simply Clone this repo<hr>
 npm run dev to run the apllication
  
-if you want to edit in data  go to Products.js from Backend folder then data folder and edit the details there and <hr>npm run data:import
+if you want to edit in data  go to Products.js from Backend folder then data folder and edit the details there and import by this command <hr>npm run data:import
   
 </h4>
