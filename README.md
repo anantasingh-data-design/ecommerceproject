@@ -6,6 +6,6 @@ And able to view the individual items,We can view the exact amount of stock this
 <p> simply Clone this repo
 npm run dev to run the apllication
  
-if you want to data import go to Products.js from Backend folder hen data folder and edit the details there and <span style="color:blue;text-decoration:none" >npm run data:import<span>
+if you want to data import go to Products.js from Backend folder hen data folder and edit the details there and <h2="color:blue;text-decoration:none" >npm run data:import</H2>
   
 </p>
