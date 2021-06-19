@@ -11,30 +11,30 @@ if you want to edit in data  go to Products.js from Backend folder then data fol
 </h4><hr>
 <h4>
 Dependencies used in Backend listed below:<br>
- dotenv
- express 
+ dotenv ,
+ express ,
  mongoose
  
 </h4>
 <hr>
 <h4>
 Developement Dependencies used in Backend listed below:<br>
- nodemon 
+ nodemon ,
  concurrently
  
 </h4>
 <hr>
 <h4 >
  Dependencies used in Frontend <br>
-  axios
-  react
-  react-dom
-  react-redux
-  react-router-dom
-  react-scripts
-  redux
-  redux-devtools-extension
-  redux-thunk
+  axios,
+  react,
+  react-dom,
+  react-redux,
+  react-router-dom,
+  react-scripts,
+  redux,
+  redux-devtools-extension,
+  redux-thunk,
   web-vitals
  
 </h4>
